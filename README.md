@@ -14,7 +14,7 @@ This is a mern based project which is basically like netflix in which payment is
 Below are the step by step instructions to pull the repository and run it in your system locally:
   1. Clone the repository into your local drive
   ```
-  git clone https://github.com/Eashwarsai/project01.1.git 
+  git clone https://github.com/ChiranjeeviNalmas/project01.1.git 
   ```
   2. Open the folder in your IDE or Terminal then move to backend folder
   ```
